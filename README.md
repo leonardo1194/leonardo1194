@@ -1,5 +1,4 @@
 ## Hi there 👋
-### I'm Leonardo
 
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardo1194&show_icons=true&theme=tokyonight">
